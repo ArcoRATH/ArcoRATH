@@ -10,10 +10,10 @@
 
 ## About Me
 
-- Mathematics and Computing undergrad at **IIT (BHU), Varanasi**
-- Passionate about **backend systems** and scalable software design
-- Worked on **microservices** and a diverse tech stack at my previous company
-- Ask me about **backend architecture, Python, or math** — always happy to talk
+- 🏗️ Building: Scalable backend architectures and context-aware agentic workflows.
+- ⚙️ Engineering: High-performance ML data pipelines, microservices, and API integrations.
+- 🎓 Background: Mathematics and Computing from IIT (BHU) Varanasi.
+- 🤝 Let's connect over: Backend system design, graph/vector databases, or Python/C++ development.
 
 ## Tech Stack
 
