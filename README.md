@@ -31,6 +31,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArcoRATH-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717)](https://github.com/ArcoRATH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/adarsh-mishra-53b760218/)
+[![Website](https://img.shields.io/badge/Website-arcorath.github.io-050810?style=flat-square&logo=githubpages&logoColor=36BCF7&labelColor=050810)](https://arcorath.github.io)
 
 </div>
 
